@@ -1,56 +1,108 @@
-# Swapnaneel Sarkar
+# Flutter Mobile Developer | Portfolio
 
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)](https://firebase.google.com)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org)
+<img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/header-animation.gif" width="100%">
 
-## 👨‍💻 Flutter Developer | Mobile App Specialist | IoT Enthusiast
+## 💡 About Me
 
-Currently a 3rd year Computer Science and Business Systems student at VIT AP University, building elegant cross-platform applications with Flutter and exploring the exciting world of IoT.
+✨ Flutter Developer | Mobile App Specialist - Student at VIT AP University  
+🔹 Building cross-platform applications with beautiful animations & transitions  
+🔹 Implementing pixel-perfect UI/UX with fluid motion designs  
+🔹 Integrating RESTful APIs and Firebase backend solutions  
+🔹 Actively learning GoLang for backend development  
+🔹 Passionate about IoT and Arduino-based projects  
 
-```dart
-void main() {
-  final developer = Developer(
-    name: 'Swapnaneel Sarkar',
-    title: 'Flutter Developer',
-    location: 'Cooch Behar, West Bengal, India',
-    skills: ['Flutter', 'Dart', 'Firebase', 'C++', 'DSA', 'React.js'],
-    currentFocus: 'Building beautiful mobile applications with clean architecture',
-    learning: 'GoLang, Advanced IoT applications',
-  );
-  
-  developer.code();
-}
-```
+## ⚡ Tech Stack & Expertise
 
-### 🚀 Professional Experience
-- **Flutter Developer** at **Laugh Buddha Technologies** (Apr 2025 - Present)
-- **Software Developer** at **Taxian** (Mar 2025 - Apr 2025)
-- **Flutter Developer** at **Apps AiT** (Sep 2024 - Mar 2025)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Animation](https://img.shields.io/badge/Animations-%23FF4154.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🛠️ Technical Toolkit
-- **Mobile Development**: Flutter, Dart, BLoC Architecture, Firebase
-- **Languages**: C++, C, JavaScript, SQL, GoLang
-- **Web Technologies**: React.js, Next.js
-- **Hardware**: Arduino, IoT Applications
-- **Core CS**: Data Structures, Algorithms, OOP, DB Management
+### 🔧 Programming Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔭 Current Projects
-- **Portfolio Website**: Flutter web showcase of my projects and skills
-- **Blog Explorer**: A content discovery platform with elegant UI
-- **Application Tracking System**: Streamlining the job application process
-- **Exploring IoT**: Connecting software with real-world hardware
+### 🛠️ IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-%23E4405F.svg?style=for-the-badge&logo=iot&logoColor=white)
 
-### 📈 GitHub Stats
+<img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/programming.gif" align="right" width="300">
+
+## 🚀 Professional Experience
+
+🔹 **Flutter Developer** at **Laugh Buddha Technologies pvt. Ltd.** (Apr 2025 - Present)
+  - End-to-end mobile application development with BLoC architecture
+  - Implementing fluid animations and micro-interactions
+  - Creating custom motion design systems for enhanced UX
+  - Integrating RESTful APIs and real-time communication features
+
+🔹 **Software Developer** at **Taxian** (Mar 2025 - Apr 2025)
+  - Developing web UIs using Flutter
+  - Implementing payment gateway integration
+  - Animation-rich interfaces for user engagement
+
+🔹 **Flutter Developer** at **Apps AiT** (Sep 2024 - Mar 2025)
+  - Real-time mobile application development
+  - Integrating machine learning models
+  - Food delivery app with animated order tracking
+  - Motion design for interactive user experiences
+
+## 📂 Featured Projects
+
+### Blog Explorer
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![Animations](https://img.shields.io/badge/Animations-%23FF4154.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+A content discovery platform with elegant UI, fluid page transitions, and offline capabilities
+
+### Application Tracking System
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+Comprehensive system for tracking job applications with analytics dashboard and Go-powered backend
+
+### Grape
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![Animations](https://img.shields.io/badge/Animations-%23FF4154.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+Social networking app with real-time messaging, animated content feeds and interactive UI elements
+
+### Arduino Home Automation
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-%23E4405F.svg?style=for-the-badge&logo=iot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+Smart home automation system with Arduino controllers and Flutter mobile interface
+
+## 📊 GitHub Stats
+
 ![Swapnaneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwapnaneelSarkar&show_icons=true&theme=tokyonight)
 
-### 📫 Connect With Me
-- 📧 Email: [swapnaneelsarkar571@gmail.com](mailto:swapnaneelsarkar571@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/swapnaneelsarkar](https://linkedin.com/in/swapnaneelsarkar)
-- 🌐 Portfolio: [swapnaneelsarkar.netlify.app](https://swapnaneelsarkar.netlify.app)
+## 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Email-swapnaneelsarkar571%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnaneelsarkar571@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-swapnaneelsarkar-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnaneelsarkar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swapnaneelsarkar.web.app-%23000000?style=for-the-badge&logo=flutter&logoColor=white)](https://swapnaneelsarkar.web.app)
 
 ---
 
-> *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/flutter-animation.gif" width="500">
+</div>
+
+```dart
+// Life philosophy
+while (alive) {
+  learn();
+  build();
+  animate(); // Because motion brings interfaces to life
+  improve();
+}
+```
