@@ -20,7 +20,7 @@
 🔹 Building cross-platform applications with elegant animations & transitions  
 🔹 Creating fluid micro-interactions that delight users  
 🔹 Implementing pixel-perfect UI from Figma to fully functional apps  
-🔹 Computer Science student at VIT AP University (CGPA: 7.88)  
+🔹 Computer Science student at VIT AP University (CGPA: 8.05)  
 🔹 Actively learning GoLang for backend development  
 🔹 Passionate about IoT and Arduino-based projects  
 
