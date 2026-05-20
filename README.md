@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=02569B&center=true&vCenter=true&random=false&width=700&height=70&lines=Swapnaneel+Sarkar;Mobile+App+Product+Manager;The+PM+Who+Ships+Code+Too;Discovery+%E2%86%92+Roadmap+%E2%86%92+Launch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=02569B&center=true&vCenter=true&random=false&width=700&height=70&lines=Swapnaneel+Sarkar;AI+%26+Mobile+App+Product+Manager;Discovery+%E2%86%92+Roadmap+%E2%86%92+Launch;The+PM+Who+Reads+Your+Codebase" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -16,12 +16,13 @@
 
 <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/developer-animation.gif" align="right" width="300">
 
-✨ **Mobile App Product Manager** — discovery, roadmap, and launch
-🔹 Helped **10+ clients** save **INR 15–30 lakhs/year** by replacing manual workflows with mobile-first platforms
+✨ **AI & Mobile App Product Manager**
+🔹 I shape AI-powered products and mobile platforms — from zero-to-one discovery to shipped features
+🔹 Helped **10+ clients** save **INR 15–30 lakhs/year** by replacing manual workflows with intelligent, mobile-first platforms
 🔹 Shipped B2B SaaS features that directly expanded the paying client base
 🔹 Ran client discovery, wrote specs, owned roadmaps — across supply chain, ERP, workforce & SaaS verticals
-🔹 Technical edge: I write Flutter, read PRs, and understand architecture tradeoffs — so engineers trust my specs
-🔹 Building open-source tools — [CodeContext CLI](https://github.com/SwapnaneelSarkar/codecontext)
+🔹 I happen to write Flutter and build LLM-powered tools — which means I speak engineering fluently, not just product
+🔹 Building open-source AI tooling — [CodeContext CLI](https://github.com/SwapnaneelSarkar/codecontext) *(LLM-powered codebase indexer)*
 🔹 CS & Business Systems @ VIT (CGPA: 8.05)
 
 <br clear="right">
@@ -69,7 +70,14 @@
 ![User Research](https://img.shields.io/badge/User%20Research-%234CAF50.svg?style=for-the-badge&logoColor=white)
 ![Roadmapping](https://img.shields.io/badge/Roadmapping-%23000000.svg?style=for-the-badge&logoColor=white)
 
-### 📱 Mobile Development *(the technical edge)*
+### 🤖 AI & LLM Product
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%237C3AED.svg?style=for-the-badge&logoColor=white)
+![AI%2FML Integration](https://img.shields.io/badge/AI%2FML%20Integration-%23FF6F00.svg?style=for-the-badge&logoColor=white)
+
+### 📱 Mobile & AI Engineering *(the background that makes the PM better)*
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
