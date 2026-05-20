@@ -3,78 +3,140 @@
 </div>
 
 <h1 align="center">
-  Swapnaneel Sarkar
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=02569B&center=true&vCenter=true&random=false&width=700&height=70&lines=Swapnaneel+Sarkar;Technical+Product+Manager;Flutter+%26+Mobile+Developer;Building+Products+That+Matter" alt="Typing SVG" />
+  </a>
 </h1>
 
-<h3 align="center">
-  Technical Product Manager • AI Product Builder • Developer
-</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/flutter-wave.gif" width="100%">
+</div>
+
+## 💡 About Me
+
+<img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/developer-animation.gif" align="right" width="300">
+
+✨ **Technical Product Manager & Flutter Developer**
+🔹 Working at the intersection of user problems and engineering
+🔹 Helped clients save **INR 15–30 lakhs/year** by replacing manual workflows with purpose-built platforms
+🔹 Shipped B2B SaaS features that expanded paying client base
+🔹 Computer Science & Business Systems student at VIT (CGPA: 8.05)
+🔹 Building open-source developer tools — [CodeContext CLI](https://github.com/SwapnaneelSarkar/codecontext)
+🔹 Passionate about supply chain, ERP, and SaaS product development
+
+<br clear="right">
+
+---
+
+## 🚀 Professional Experience
+
+<img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/coding-animation.gif" align="right" width="280">
+
+🔹 **Technical Product Manager Intern** at **Heizen Hybrid** *(Nov 2025 – Present)*
+  - Owned product delivery across supply chain, ERP, workforce management & B2C SaaS verticals
+  - Helped 3+ clients cut INR 15–30 lakhs/year by migrating legacy processes onto custom platforms
+  - Shipped features on a B2B SaaS product that grew the paying client base via user interviews → sprint specs
+
+🔹 **Project Manager & App Developer** at **Crowdbuzz** *(Apr 2025 – Present)*
+  - Leading end-to-end product development for client projects
+  - Translating business objectives into roadmaps and technical specs with 100% client satisfaction
+
+🔹 **Flutter Developer Intern** at **Meet & More** *(Apr 2025 – Present)*
+  - Building mobile apps with Flutter, BLoC, RESTful APIs, and Firebase Cloud Messaging
+
+🔹 **Software Engineer Intern** at **Taxian** *(Mar 2025 – Apr 2025)*
+  - Flutter web UIs with Stripe & PayPal payment gateway integration
+
+🔹 **Android Developer Intern** at **Apps AiT** *(Sep 2024 – Mar 2025)*
+  - Flutter + Firebase mobile apps with ML model integration in Agile environment
+
+<br clear="right">
+
+---
+
+## ⚡ Tech Stack & Expertise
+
+### 🗂️ Product Management
+![Agile](https://img.shields.io/badge/Agile-%230175C2.svg?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%2302569B.svg?style=for-the-badge&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-%23000000.svg?style=for-the-badge&logoColor=white)
+![User Research](https://img.shields.io/badge/User%20Research-%234CAF50.svg?style=for-the-badge&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🔧 Programming Languages
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+
+### 🛠️ Tools & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
 <div align="center">
-  Building AI-powered products, developer tools, and scalable applications.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnaneelSarkar&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </div>
 
 ---
 
-## 💡 About Me
+## 📂 Featured Projects
 
-- Technical Product Manager Intern at Heizen
-- Building AI-powered products, workflows, and developer tooling
-- Experience across product execution, sprint planning, and AI-native systems
-- Strong technical background in Flutter, backend integrations, and scalable applications
-- Interested in LLM systems, context engineering, orchestration, and AI workflows
-- B.Tech in Computer Science & Business Systems at VIT
-
----
-
-## ⚡ Tech Stack
-
-### Product & AI
-![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Workflows-%23000000.svg?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-%23412191.svg?style=for-the-badge)
-![Product](https://img.shields.io/badge/Product%20Management-%230077B5.svg?style=for-the-badge)
-
-### Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🚀 Experience
-
-### Technical Product Manager Intern — Heizen
-- Working on AI-powered products and workflow systems
-- Managing sprint execution, feature planning, and cross-functional coordination
-- Contributing to AI-native workflows, product strategy, and developer tooling
-
-### Product Manager & Developer — Freelance / Startup Projects
-- Worked across consumer and B2B products
-- Built AI-integrated applications and scalable mobile platforms
-- Managed end-to-end execution from product planning to deployment
-
-### Flutter Developer Intern — Apps AiT / Meet & More / Taxian
-- Built production-grade Flutter applications
-- Worked on real-time systems, backend integrations, and scalable UI architectures
-
----
-
-## 📂 Featured Work
-
-### AI & Product Systems
-- AI-powered workflow applications
-- LLM-integrated chatbot systems
-- Context-aware AI experiences
-- Developer tooling and automation workflows
-
-### Mobile & Platform Development
-- Scalable Flutter applications
-- Firebase-powered real-time systems
-- Dashboard and analytics platforms
-- Consumer and B2B SaaS products
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">CodeContext CLI</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnaneelSarkar/codecontext">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+        </a>
+        <img src="https://img.shields.io/badge/MIT-Open%20Source-%2300ADD8?style=for-the-badge">
+      </div>
+      <p><strong>TypeScript, Node.js, Tree-sitter, LLM APIs</strong> — Open-source CLI that indexes local codebases into AI-ready context bundles with per-file summaries, dependency graphs, and BM25 search. Supports Ollama, Anthropic & OpenAI backends.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Bird — Quick Commerce App</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnaneelSarkar/bird">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+        </a>
+      </div>
+      <p><strong>Flutter, Firebase, BLoC, RESTful APIs</strong> — Dual-platform quick commerce app with real-time order tracking. Led a team of 4 engineers from requirements to launch.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Grape — Healthcare Platform</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnaneelSarkar/grape">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+        </a>
+      </div>
+      <p><strong>Flutter, Firebase, Google Maps API</strong> — Healthcare management app with nearby pharmacy/hospital discovery, AI-powered symptom tracking, and real-time messaging.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Application Tracking System</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnaneelSarkar/application-tracker">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+        </a>
+      </div>
+      <p><strong>Flutter, Go Backend</strong> — Full-stack job application tracker with analytics dashboard and Go-powered backend API.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -93,20 +155,34 @@
   <a href="mailto:swapnaneelsarkar571@gmail.com">
     <img src="https://img.shields.io/badge/Email-swapnaneelsarkar571%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
-  <a href="https://linkedin.com/in/swapnaneelsarkar">
-    <img src="https://img.shields.io/badge/LinkedIn-swapnaneelsarkar-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/swapnaneel-sarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-swapnaneel--sarkar-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
   <a href="https://swapnaneelsarkar.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-swapnaneelsarkar.web.app-%23000000?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
 </div>
-
----
 
 <div align="center">
-
-“Building products at the intersection of AI, engineering, and execution.”
-
+  <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/footer-wave.gif" width="100%">
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwapnaneelSarkar&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
+```dart
+// Life in motion
+class ProductManager extends Developer {
+  void startJourney() {
+    while (true) {
+      listenToUsers();
+      defineRoadmap();
+      shipFast();         // Iterate, don't perfect
+      measureImpact();    // INR 15–30L saved and counting
+      
+      if (coffee.isEmpty) refillCoffee();
+    }
+  }
+}
+```
