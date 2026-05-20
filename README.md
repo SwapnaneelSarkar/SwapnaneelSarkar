@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=02569B&center=true&vCenter=true&random=false&width=700&height=70&lines=Swapnaneel+Sarkar;Technical+Product+Manager;Flutter+%26+Mobile+Developer;Building+Products+That+Matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=02569B&center=true&vCenter=true&random=false&width=700&height=70&lines=Swapnaneel+Sarkar;Mobile+App+Product+Manager;The+PM+Who+Ships+Code+Too;Discovery+%E2%86%92+Roadmap+%E2%86%92+Launch" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,34 +12,38 @@
   <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/flutter-wave.gif" width="100%">
 </div>
 
-## 💡 About Me
+## 🎯 About Me
 
 <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/developer-animation.gif" align="right" width="300">
 
-✨ **Technical Product Manager & Flutter Developer**
-🔹 Working at the intersection of user problems and engineering
-🔹 Helped clients save **INR 15–30 lakhs/year** by replacing manual workflows with purpose-built platforms
-🔹 Shipped B2B SaaS features that expanded paying client base
-🔹 Computer Science & Business Systems student at VIT (CGPA: 8.05)
-🔹 Building open-source developer tools — [CodeContext CLI](https://github.com/SwapnaneelSarkar/codecontext)
-🔹 Passionate about supply chain, ERP, and SaaS product development
+✨ **Mobile App Product Manager** — discovery, roadmap, and launch
+🔹 Helped **10+ clients** save **INR 15–30 lakhs/year** by replacing manual workflows with mobile-first platforms
+🔹 Shipped B2B SaaS features that directly expanded the paying client base
+🔹 Ran client discovery, wrote specs, owned roadmaps — across supply chain, ERP, workforce & SaaS verticals
+🔹 Technical edge: I write Flutter, read PRs, and understand architecture tradeoffs — so engineers trust my specs
+🔹 Building open-source tools — [CodeContext CLI](https://github.com/SwapnaneelSarkar/codecontext)
+🔹 CS & Business Systems @ VIT (CGPA: 8.05)
 
 <br clear="right">
 
 ---
 
-## 🚀 Professional Experience
+## 🚀 Experience
 
 <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/coding-animation.gif" align="right" width="280">
 
+### 🗂️ Product Management
+
 🔹 **Technical Product Manager Intern** at **Heizen Hybrid** *(Nov 2025 – Present)*
   - Owned product delivery across supply chain, ERP, workforce management & B2C SaaS verticals
-  - Helped 3+ clients cut INR 15–30 lakhs/year by migrating legacy processes onto custom platforms
-  - Shipped features on a B2B SaaS product that grew the paying client base via user interviews → sprint specs
+  - Helped **10+ clients** cut INR 15–30 lakhs/year by migrating legacy processes onto custom mobile platforms
+  - Shipped B2B SaaS features that grew the paying client base — user interviews → wireframes → sprint specs → launch
 
 🔹 **Project Manager & App Developer** at **Crowdbuzz** *(Apr 2025 – Present)*
-  - Leading end-to-end product development for client projects
-  - Translating business objectives into roadmaps and technical specs with 100% client satisfaction
+  - Led end-to-end product lifecycle for client projects; translated business goals into roadmaps and technical specs
+  - Coordinated cross-functional teams of designers and engineers with 100% client satisfaction
+
+### 📱 Engineering (the reason my specs are trusted)
 
 🔹 **Flutter Developer Intern** at **Meet & More** *(Apr 2025 – Present)*
   - Building mobile apps with Flutter, BLoC, RESTful APIs, and Firebase Cloud Messaging
@@ -54,16 +58,18 @@
 
 ---
 
-## ⚡ Tech Stack & Expertise
+## ⚡ Skills & Tools
 
 ### 🗂️ Product Management
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%230175C2.svg?style=for-the-badge&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%2302569B.svg?style=for-the-badge&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Roadmapping](https://img.shields.io/badge/Roadmapping-%23000000.svg?style=for-the-badge&logoColor=white)
 ![User Research](https://img.shields.io/badge/User%20Research-%234CAF50.svg?style=for-the-badge&logoColor=white)
+![Roadmapping](https://img.shields.io/badge/Roadmapping-%23000000.svg?style=for-the-badge&logoColor=white)
 
-### 📱 Mobile Development
+### 📱 Mobile Development *(the technical edge)*
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
@@ -172,15 +178,18 @@
 </div>
 
 ```dart
-// Life in motion
-class ProductManager extends Developer {
+// Not your average PM
+class MobileAppPM extends FlutterDeveloper {
+  final String superpower = "I can read your codebase AND your users' minds";
+
   void startJourney() {
     while (true) {
-      listenToUsers();
-      defineRoadmap();
-      shipFast();         // Iterate, don't perfect
-      measureImpact();    // INR 15–30L saved and counting
-      
+      talkToUsers();          // Discovery first
+      writeTheSpec();         // Then clarity
+      reviewThePR();          // Yes, PMs can do that
+      shipToAppStore();       // End-to-end ownership
+      measureImpact();        // 10+ clients, INR 15–30L saved
+
       if (coffee.isEmpty) refillCoffee();
     }
   }
