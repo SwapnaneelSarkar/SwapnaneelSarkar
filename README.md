@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/developer-animation.gif" align="right" width="300">
 
-✨ **AI & Mobile App Product Manager**
+✨ **AI Product Manager**
 🔹 I shape AI-powered products and mobile platforms — from zero-to-one discovery to shipped features
 🔹 Helped **10+ clients** save **INR 15–30 lakhs/year** by replacing manual workflows with intelligent, mobile-first platforms
 🔹 Shipped B2B SaaS features that directly expanded the paying client base
