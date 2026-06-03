@@ -12,17 +12,20 @@
   <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/flutter-wave.gif" width="100%">
 </div>
 
+---
+
 ## 🎯 About Me
 
 <img src="https://raw.githubusercontent.com/SwapnaneelSarkar/SwapnaneelSarkar/main/assets/developer-animation.gif" align="right" width="300">
 
-✨ **AI Product Manager**
-🔹 I shape AI-powered products and mobile platforms — from zero-to-one discovery to shipped features
-🔹 Helped **10+ clients** save **INR 15–30 lakhs/year** by replacing manual workflows with intelligent, mobile-first platforms
-🔹 Shipped B2B SaaS features that directly expanded the paying client base
-🔹 Ran client discovery, wrote specs, owned roadmaps — across supply chain, ERP, workforce & SaaS verticals
-🔹 I happen to write Flutter and build LLM-powered tools — which means I speak engineering fluently, not just product
-🔹 Building open-source AI tooling — [CodeContext CLI](https://github.com/SwapnaneelSarkar/codecontext) *(LLM-powered codebase indexer)*
+✨ **AI Product Manager** — I ship products, not decks.
+
+🔹 Shape AI-powered products and mobile platforms from zero-to-one discovery to shipped features  
+🔹 Helped **10+ clients** save **INR 15–30 lakhs/year** replacing manual workflows with intelligent, mobile-first platforms  
+🔹 Shipped B2B SaaS features that directly expanded paying client bases  
+🔹 Ran client discovery, wrote specs, owned roadmaps — across supply chain, ERP, workforce & SaaS verticals  
+🔹 I write Flutter and build LLM-powered tools — which means I speak engineering fluently, not just product  
+🔹 Building open-source AI tooling — [CodeContext CLI](https://github.com/SwapnaneelSarkar/codecontext) *(LLM-powered codebase indexer)*  
 🔹 CS & Business Systems @ VIT (CGPA: 8.05)
 
 <br clear="right">
@@ -44,7 +47,7 @@
   - Led end-to-end product lifecycle for client projects; translated business goals into roadmaps and technical specs
   - Coordinated cross-functional teams of designers and engineers with 100% client satisfaction
 
-### 📱 Engineering (the reason my specs are trusted)
+### 📱 Engineering *(the reason my specs are trusted)*
 
 🔹 **Flutter Developer Intern** at **Meet & More** *(Apr 2025 – Present)*
   - Building mobile apps with Flutter, BLoC, RESTful APIs, and Firebase Cloud Messaging
@@ -73,30 +76,34 @@
 ### 🤖 AI & LLM Product
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-%23F54E42.svg?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%237C3AED.svg?style=for-the-badge&logoColor=white)
-![AI%2FML Integration](https://img.shields.io/badge/AI%2FML%20Integration-%23FF6F00.svg?style=for-the-badge&logoColor=white)
+![AI/ML Integration](https://img.shields.io/badge/AI%2FML%20Integration-%23FF6F00.svg?style=for-the-badge&logoColor=white)
 
-### 📱 Mobile & AI Engineering *(the background that makes the PM better)*
+### 📱 Mobile & Frontend Engineering
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 ![BLoC](https://img.shields.io/badge/BLoC-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-### 🔧 Programming Languages
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-
-### 🛠️ Tools & Infrastructure
+### 🛠️ Backend & Infrastructure
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
+
+### 🔧 Languages
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnaneelSarkar&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
@@ -117,19 +124,34 @@
         </a>
         <img src="https://img.shields.io/badge/MIT-Open%20Source-%2300ADD8?style=for-the-badge">
       </div>
-      <p><strong>TypeScript, Node.js, Tree-sitter, LLM APIs</strong> — Open-source CLI that indexes local codebases into AI-ready context bundles with per-file summaries, dependency graphs, and BM25 search. Supports Ollama, Anthropic & OpenAI backends.</p>
+      <br>
+      <p><strong>TypeScript · Node.js · Tree-sitter · LLM APIs</strong></p>
+      <p>Open-source CLI that indexes local codebases into AI-ready context bundles with per-file summaries, dependency graphs, and BM25 search. Supports Ollama, Anthropic & OpenAI backends.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Bird — Quick Commerce App</h3>
+      <h3 align="center">MindMark</h3>
       <div align="center">
-        <a href="https://github.com/SwapnaneelSarkar/bird">
+        <a href="https://github.com/SwapnaneelSarkar/MindMark">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
         </a>
       </div>
-      <p><strong>Flutter, Firebase, BLoC, RESTful APIs</strong> — Dual-platform quick commerce app with real-time order tracking. Led a team of 4 engineers from requirements to launch.</p>
+      <br>
+      <p><strong>Next.js 14 · TypeScript · Supabase · Groq · Llama 3.3 70B</strong></p>
+      <p>AI-powered mental context bookmarking tool for knowledge workers. Sub-200ms capture panel, LLM-generated re-entry briefs to restore deep focus instantly, visual day timeline, and full offline PWA support.</p>
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3 align="center">PortfolioHub</h3>
+      <div align="center">
+        <a href="https://github.com/SwapnaneelSarkar/PortFolioHub">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+        </a>
+      </div>
+      <br>
+      <p><strong>Next.js 16 · TypeScript · Tailwind CSS v4 · Supabase</strong></p>
+      <p>PM portfolio builder with guided storyteller blocks (Context → Research → Metrics → Learnings), PRD & deck attachment support, and instant public hosting. Built to prove judgment, not just title.</p>
+    </td>
     <td width="50%">
       <h3 align="center">Grape — Healthcare Platform</h3>
       <div align="center">
@@ -137,16 +159,9 @@
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
         </a>
       </div>
-      <p><strong>Flutter, Firebase, Google Maps API</strong> — Healthcare management app with nearby pharmacy/hospital discovery, AI-powered symptom tracking, and real-time messaging.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Application Tracking System</h3>
-      <div align="center">
-        <a href="https://github.com/SwapnaneelSarkar/application-tracker">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-        </a>
-      </div>
-      <p><strong>Flutter, Go Backend</strong> — Full-stack job application tracker with analytics dashboard and Go-powered backend API.</p>
+      <br>
+      <p><strong>Flutter · Firebase · Google Maps API</strong></p>
+      <p>Healthcare management app with nearby pharmacy/hospital discovery, AI-powered symptom tracking, and real-time in-app messaging.</p>
     </td>
   </tr>
 </table>
